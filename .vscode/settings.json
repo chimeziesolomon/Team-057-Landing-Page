@@ -1,0 +1,9 @@
+{
+    "gitflow4code.init": {
+        "develop": "featurebranch",
+        "releases": "branch",
+        "hotfixes": "hotfix",
+        "features": "feature",
+        "support": ""
+    }
+}
