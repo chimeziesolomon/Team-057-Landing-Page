@@ -1,0 +1,3 @@
+[submodule "myfeature"]
+	path = myfeature
+	url = https://github.com/BuildForSDG/Team-057-Landing-Page
